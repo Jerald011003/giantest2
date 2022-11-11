@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5fcee60-1dd9-47f5-a5cd-fbcf83037182" name="Default Changelist" comment="" />
+    <list default="true" id="b5fcee60-1dd9-47f5-a5cd-fbcf83037182" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeraldTest3/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/JeraldTest3/settings/base.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +32,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2ElbpjM5RlzjP7DnEZ75PVYGrOr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,22 +52,24 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JeraldTest3/settings" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\Gian\JeraldTest3\JeraldTest3\settings" />
+      <recent name="E:\Programming\PycharmProject\JeraldTest3\static_cdn\static_root" />
+      <recent name="C:\Users\ACER\PycharmProjects\JeraldTest3\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\Gian\JeraldTest3\JeraldTest3\settings" />
+      <recent name="C:\Users\ADMIN\Desktop\Gian\JeraldTest3\JeraldTest3\base" />
       <recent name="E:\Programming\PycharmProject\JeraldTest3\search" />
       <recent name="E:\Programming\PycharmProject\JeraldTest3\templates" />
       <recent name="E:\Programming\PycharmProject\JeraldTest3\static_my_project" />
-      <recent name="E:\Programming\PycharmProject\JeraldTest3\templates\base" />
-      <recent name="E:\Programming\PycharmProject\JeraldTest3\products" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Programming\PycharmProject\JeraldTest3\static_cdn\static_root" />
-      <recent name="C:\Users\ACER\PycharmProjects\JeraldTest3\templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -147,6 +159,7 @@
       <workItem from="1668190998413" duration="104000" />
       <workItem from="1668193705934" duration="50000" />
       <workItem from="1668200603285" duration="20000" />
+      <workItem from="1668205321110" duration="568000" />
     </task>
     <servers />
   </component>
